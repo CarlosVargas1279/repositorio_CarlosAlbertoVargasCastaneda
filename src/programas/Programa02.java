@@ -18,7 +18,7 @@ public class Programa02 {
         th=lectura.nextDouble();
         //Proceso de datos
         sb=ht*th;
-        d=sb*0.13;
+        d=sb*0.10;
         sn=sb-d;
         //Salida de datos
         System.out.println("Sueldo bruto: "+sb);
